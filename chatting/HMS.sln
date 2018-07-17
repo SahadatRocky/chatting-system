@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMS", "HMS\HMS.csproj", "{01AB29D7-6FCF-4533-8725-3862A68B815D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{0CA25021-09C6-41E0-A4A8-DF2D103078FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01AB29D7-6FCF-4533-8725-3862A68B815D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AB29D7-6FCF-4533-8725-3862A68B815D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AB29D7-6FCF-4533-8725-3862A68B815D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AB29D7-6FCF-4533-8725-3862A68B815D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CA25021-09C6-41E0-A4A8-DF2D103078FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA25021-09C6-41E0-A4A8-DF2D103078FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA25021-09C6-41E0-A4A8-DF2D103078FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA25021-09C6-41E0-A4A8-DF2D103078FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AABB4254-D25E-4E7D-BBC0-252A64075586}
+	EndGlobalSection
+EndGlobal
